@@ -6,7 +6,7 @@ A Python module to trigger IFTTT events using webhooks.
 Installation can be made using pip:
 
 ```
-pip install git+https://github.com/DrGFreeman/IFTTT-Webhook.git
+pip install git+https://github.com/snowy-27/ifttt
 ```
 
 Or from the source files:
